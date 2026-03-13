@@ -21,9 +21,17 @@
 p.visiblenote{
   background-color: #78acff;
   border: 2px solid blue;
-  margin: ; 5px;
+  margin: 5px;
   color: blue;
   padding: 10px;
   border-radius: 5px;
+}
+h1.oldgame{ /* The main Header on a Old game (for example, flash games using ruffle and scratch 1.4 to 2.0 games) */
+  color: lightgray;
+  padding: 8px;
+  border-radius: 9px;
+  margin: 7px;
+ border: 2px solid lightgray;
+  background-color: #dedfe0;
 }
 /* soon adding cards and more.*/
