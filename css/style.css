@@ -1,1 +1,13 @@
-// SOON ADDING STYLE
+  body { /* for body tags.*/
+    font-family: "Arial", sans-serif;
+  }
+  p.note { /* notes */
+    color: gray;
+    font-size: 16px;
+  }
+  h1 { /* H1 gets a underline */
+    text-decoration: underline;
+    text-decoration-color: blue;
+  }
+
+/* Soon adding warnings, cards and more.*/
