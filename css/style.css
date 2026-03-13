@@ -2,12 +2,20 @@
     font-family: "Arial", sans-serif;
   }
   p.note { /* notes */
-    color: gray;
+    color: lightgray;
     font-size: 16px;
   }
   h1 { /* H1 gets a underline */
     text-decoration: underline;
-    text-decoration-color: blue;
+    text-decoration-color: lightblue;
   }
+ p.warn {
+      background-color: #ffd000;
+    border: 2px solid orange;
+       margin: 5px;
+      color: orange;
+    padding: 10px;
+   border-radius: 5px;
+}
 
-/* Soon adding warnings, cards and more.*/
+/* soon adding cards and more.*/
