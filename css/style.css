@@ -1,4 +1,4 @@
-  body { /* for body tags.*/
+  body.d { /* for body tags with the d class. d for default.*/
     font-family: "Arial", sans-serif;
   }
   p.note { /* notes */
