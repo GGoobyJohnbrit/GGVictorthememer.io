@@ -18,4 +18,12 @@
    border-radius: 5px;
 }
 
+p.visiblenote{
+  background-color: #73a0f7;
+  border: 2px solid blue;
+  margin: ; 5px;
+  color: blue;
+  padding: 10px;
+  border-radius: 5px;
+}
 /* soon adding cards and more.*/
