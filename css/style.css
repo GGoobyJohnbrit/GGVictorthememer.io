@@ -30,4 +30,9 @@ h1.oldgame{ /* The main Header on a Old game (for example, flash games using ruf
   color: lightgray;
   background-color: #dedfe0;
 }
+.unclickablelink{ /* Unclickable links >:D*/
+  color: lightblue;
+  text-decoration: underline;
+  text-decoration-color: lightblue;
+}
 /* soon adding cards and more.*/
